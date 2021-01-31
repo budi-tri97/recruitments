@@ -1,0 +1,2 @@
+Running serve dg port:8007
+php artisan serve --port=8007
